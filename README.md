@@ -5,4 +5,8 @@ Nama : PATMA SYAHRANI
 Kelas : XI RPL C
 No : 14
 
+Nama: URI FIKIANI
+Kelas: XI RPL C
+No: 32
+
 
